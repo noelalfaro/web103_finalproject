@@ -1,21 +1,38 @@
 # Wireframes
 
-Reference the Creating an Entity Relationship Diagram final project guide in the course portal for more information about how to complete this deliverable.
+Reference the Wireframing final project guide in the course portal for more information about how to complete this deliverable.
 
 ## List of Pages
 
 [👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
 
-## Wireframe 1: [page title]
+- Landing Page ⭐
+- Main Dashboard ⭐
+- Individual Shoe ⭐
+- Create a Shoe ⭐
+- Profile Page ⭐
+- Page Not Found ⭐
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+## Wireframe 1: Landing Page
 
-## Wireframe 2: [page title]
+<img src='./sneak-peak-batch_1.jpg' width='' alt='sneak-peak-batch_1.jpg' />
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+## Wireframe 2: Main Dashboard
 
-## Wireframe 3: [page title]
+<img src='./sneak-peak-batch_2.jpg' width='' alt='sneak-peak-batch_2.jpg' />
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+## Wireframe 3: Individual Shoe
 
-[👉🏾👉🏾👉🏾 include more wireframes as desired]
+<img src='./sneak-peak-batch_3.jpg' width='' alt='sneak-peak-batch_3.jpg' />
+
+## Wireframe 4: Creating a Shoe
+
+<img src='./sneak-peak-batch_4.jpg' width='' alt='sneak-peak-batch_4.jpg' />
+
+## Wireframe 5: Profile Page
+
+<img src='./sneak-peak-batch_5.jpg' width='' alt='sneak-peak-batch_5.jpg' />
+
+## Wireframe 6: Page Not Found
+
+<img src='./sneak-peak-batch_6.jpg' width='' alt='sneak-peak-batch_6.jpg' />
