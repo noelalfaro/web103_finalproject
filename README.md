@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: Noel Alfaro & Mohamed Reda Falhi
+Designed and developed by: Noel Alfaro & Mohamed Reda Falh
 
 🔗 Link to deployed app:
 
